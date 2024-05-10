@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Harry Potter</string>
+    <string name="books">Books</string>
+    <string name="characters">Characters</string>
+    <string name="spell">Spell</string>
+    <string name="info">Info</string>
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

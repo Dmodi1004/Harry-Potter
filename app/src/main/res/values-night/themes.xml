@@ -1,0 +1,20 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.HarryPotter" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/cadetGray</item>
+        <item name="colorPrimaryDark">@color/lightSlateGray</item>
+        <item name="colorAccent">@color/lightSlateGray</item>
+    </style>
+
+    <style name="MySplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/black</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/hp_splash_night</item>
+        <item name="postSplashScreenTheme">@style/Base.Theme.HarryPotter</item>
+    </style>
+
+    <style name="bottomNavTheme" parent="Widget.Material3.BottomNavigationView.ActiveIndicator">
+        <item name="android:color">@color/lightSlateGray</item>
+    </style>
+
+</resources>

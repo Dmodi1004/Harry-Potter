@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="lightSlateGray">#7A918D</color>
+    <color name="cadetGray">#93B1A7</color>
+    <color name="etonBlue">#99C2A2</color>
+    <color name="teaGreen">#C5EDAC</color>
+    <color name="lightTeaGreen">#DBFEB8</color>
+    <color name="munsell">#F3F6F0</color>
+    <color name="book_handle">#5E222222</color>
+    <color name="gray">#F3F3F3</color>
+    <color name="text_gray">#B2222222</color>
+
+</resources>
